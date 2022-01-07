@@ -1,0 +1,44 @@
+Book short names :
+Blender 3D by Example 2020 : BbE
+Blender for Dummies 2020 : B4D
+The Complete guide to Blender Graphics (computer modeling and animation) 2020 : CGB
+
+Lesson 1 
+CGB Introduction, Installation
+B4D Introduction
+BBE Preface 
+
+Be sure to have a version of Blender 2.82 or 2.83, installed at your Linux or Windows computer before going on
+
+Lesson 2
+BbE chapter 1, only the Overview of 3D workflow section
+B4D chapter 1, only the Getting to know Blender section
+
+On all subsequent lessons I assume that you will have the blender 2.8x open
+and actively try things out.
+
+Lesson 3 
+CGB Preamble 
+BbE chapter 1 : Blender's user interface, until the end of chapter 1
+
+Lesson 4 
+CGB chapter01 : From 1.1 until 1.5
+B4D chapter 1 , Getting to know the Interface, finish chapter 1. 
+
+Lesson 5 
+CGB chapter01 : From 1.6 until the end of chapter01
+
+Lesson 6
+CGB chapter02 from 2.1 until 2.18
+
+Lesson 7 
+CGB chapter02 from 2.19 until the end 2.22
+B4D chapter 2 , section Looking at editor Types
+
+Lesson 8 
+B4D chapter 2 , Navigating in 3 Dimensions and Extra Features in the 3D Viewport
+
+Lesson 9 
+CGB chapter03 all of it
+
+Lesson 10 
