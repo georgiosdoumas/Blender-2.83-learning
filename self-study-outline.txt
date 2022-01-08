@@ -8,8 +8,8 @@ CGB Introduction, Installation
 B4D Introduction
 BBE Preface 
 
-Be sure to have a version of Blender 2.82 or 2.83, installed at your Linux or Windows computer before going on
-MX-21 has blender 2.83. https://mxlinux.org/download-links/
+Be sure to have a version of Blender 2.83, installed at your Linux or Windows computer before going on.
+MX-21 has blender 2.83.x at its repositories, https://mxlinux.org/download-links/
 Fedora 35 has blender 2.9x , so I do not recommend it for this learning phase (https://labs.fedoraproject.org/en/design-suite/ ) 
 After you become familiar with blender 2.83, when you finish the lessons, then you can watch videos to pick up the differences of 2.93
 Or go to https://www.blender.org/download/lts/2-83/ 
