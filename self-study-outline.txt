@@ -12,18 +12,17 @@ Be sure to have a version of Blender 2.83, installed at your Linux or Windows co
 MX-21 has blender 2.83.x at its repositories, https://mxlinux.org/download-links/
 Fedora 35 has blender 2.9x , so I do not recommend it for this learning phase (https://labs.fedoraproject.org/en/design-suite/ ) 
 After you become familiar with blender 2.83, when you finish the lessons, then you can watch videos to pick up the differences of 2.93
-Or go to https://www.blender.org/download/lts/2-83/ 
+Also you can download from https://www.blender.org/download/lts/2-83/ 
 
 Lesson 2
-BbE chapter 1, only the Overview of 3D workflow section
+BbE Chapter 1, only the Overview of 3D workflow section
 B4D chapter 1, only the Getting to know Blender section
 
-On all subsequent lessons I assume that you will have the blender 2.8x open
-and actively try things out.
+On all subsequent lessons I assume that you will have the blender 2.8x open and actively try things out.
 
 Lesson 3 
 CGB Preamble 
-BbE chapter 1 : Blender's user interface, until the end of chapter 1
+BbE Chapter 1 : Blender's user interface, until the end of chapter 1
 
 Lesson 4 
 CGB chapter01 : From 1.1 until 1.5
@@ -37,12 +36,53 @@ CGB chapter02 from 2.1 until 2.18
 
 Lesson 7 
 CGB chapter02 from 2.19 until the end 2.22
-B4D chapter 2 , section Looking at editor Types
+B4D chapter 2 , section Looking at editor Types (including Understanding the Properties Editor) [pages 25-32]
 
 Lesson 8 
-B4D chapter 2 , Navigating in 3 Dimensions and Extra Features in the 3D Viewport
+B4D chapter 2 , Navigating in 3 Dimensions and Extra Features in the 3D Viewport  [pages 32-50]
 
 Lesson 9 
 CGB chapter03 all of it
 
 Lesson 10 
+B4D chapter 2 , Customizing Blender (finish chapter 2) [pages 50-62]
+CGB chapter04 4.1 to 4.11 
+
+Lesson 11
+B4D chapter 3, all of it [pages 63-76]
+
+Lesson 12
+CGB chapter04 4.12 to 4.22 finish chapter04
+
+Lesson 13
+CGB chapter05 all of it.
+
+Lesson 14 
+B4D chapter 4, Making Changes by Using Edit Mode [pages 77-90]
+
+Lesson 15
+B4D chapter 4, Adding to a Scene finish chapter [pages 90-110]
+
+Lesson 16 
+CGB chapter06 all of it
+
+Lesson 17
+CGB chapter07 all of it, chapter08 from 8.1 to 8.5 
+
+Lesson 18 
+chapter08 from 8.6 to 8.16 end of chapter08
+
+Lesson 19
+B4D chapter 5, Pushing Vertices [pages 113-131]
+
+Lesson 20
+B4D chapter 5, Working with Loops and Rings [pages 131-137]
+CGB chapter09 from 9.1-9.7 
+
+Lesson 21 
+CGB chapter09 from 9.8 to 9.18 finish chapter09
+
+Lesson 22 
+B4D chapter 5, Simplifying Your Life as a Modeler with Modifiers finish chapter 5 [pages 137-156]
+
+Lesson 23
